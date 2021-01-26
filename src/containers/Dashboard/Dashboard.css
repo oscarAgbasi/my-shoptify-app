@@ -1,0 +1,22 @@
+.containerpanel{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 43px;
+}
+
+.mainpanel{
+    position: fixed;
+    margin-left: 209px;
+    width: 1200px;
+    background-color: aqua;
+}
+
+
+.pagePanel{
+    margin-top: 137px;
+    background-color: blue;
+    height: 629px;
+    
+}
+
